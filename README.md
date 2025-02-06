@@ -53,3 +53,13 @@ This web application provides a seamless and interactive product browsing experi
 ## 🌍 API Integration
 
 This project leverages the **FakeStoreAPI** to deliver **real-time product data**, ensuring a lifelike e-commerce browsing experience.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/210656bd-c9de-45c2-96ed-d4cd839688fb)
+![image](https://github.com/user-attachments/assets/034deb2e-4566-4e83-8247-e8057e4ff8d1)
+![image](https://github.com/user-attachments/assets/b3f2e141-c199-4a09-b06a-f31f3574677c)
+![image](https://github.com/user-attachments/assets/27cd391b-1ffd-4976-a28a-5def8e008eca)
+
+
+
+
