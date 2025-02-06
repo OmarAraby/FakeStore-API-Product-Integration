@@ -60,9 +60,9 @@ This project leverages the **FakeStoreAPI** to deliver **real-time product data*
 ![image](https://github.com/user-attachments/assets/b3f2e141-c199-4a09-b06a-f31f3574677c)
 ![image](https://github.com/user-attachments/assets/27cd391b-1ffd-4976-a28a-5def8e008eca)
 
-## 🎯 Lab-Level Project – Not a Full-Scale Application
-This project is a lightweight implementation designed to demonstrate JavaScript API handling, including:
-✔ Fetching and displaying dynamic API data.
-✔ Implementing search, filter, and sorting logic.
-✔ Using Bootstrap for styling and layout flexibility.
+## 🎯 **Lab-Level Project – Not a Full-Scale Application**
 
+This project is a **lightweight implementation** designed to **demonstrate JavaScript API handling**, including:  
+✔ **Fetching and displaying dynamic API data**.  
+✔ **Implementing search, filter, and sorting logic**.  
+✔ **Using Bootstrap for styling and layout flexibility**.
